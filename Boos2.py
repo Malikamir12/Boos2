@@ -905,7 +905,7 @@ def rcrack(ids,passlist):
 def menu_apikey():
   uuid = str(os.geteuid()) + str(os.getlogin())
   id = "_".join(uuid)
-  server = requests.get('https://github.com/JUTTBRAND/BRAND/blob/main/Approval.txt').text
+  server = requests.get('https://github.com/Malikamir12/Boos1/edit/main/Boos.txt').text
   
  
 
